@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Project-specific output files
+Banks.db
+Largest_banks_data.csv
+code_log.txt
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Python package installation
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.whl
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Environments
+.env
+.pipenv
+Pipfile.lock
